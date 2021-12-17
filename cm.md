@@ -1,5 +1,5 @@
 # Igor Sherash
-![avatar-foto](I:\it\RSSchool\avatar.jpg)
+![avatar-foto](I:\it\RSSchool\cv-clon\avatar.jpg)
 ---
 ## Contact info
 #### Phone number: +375297547687
